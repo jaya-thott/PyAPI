@@ -1,0 +1,17 @@
+{
+"students":  [ 
+   {  
+    "id" :1 ,
+    "name": "Winter",
+    "age": 20,
+     "location":"Newyork"
+   },
+
+   {
+    "id" :2 ,
+    "name": "Summer",
+    "age": 22,
+     "location":"Miami"
+   }
+]
+}
